@@ -1,16 +1,9 @@
-.container {
-    color: #4ECCA3;
+body{
+    background-color: #bdc5ca;
+    font-family: 'Poppins', sans-serif !important;
+    font-size: 20px !important;
 }
 
-.container h1{
-    font-family: 'Lobster', cursive;
-
-}
-.container h3{
-    font-family: 'Indie Flower', cursive;
-}
-
-.foot {
-    color: #4ECCA3;
-    font-family: 'Indie Flower', cursive;
+.container{
+    width: 600px !important;
 }
