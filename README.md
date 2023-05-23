@@ -5,7 +5,7 @@ It is a simple Dice game having having two dices roll again aand again after cli
 
 ## Screenshot
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Ranjeet-singh-1/Dice_game/blob/master/images/Web_Screenshot.png)
 
 
 ### Website is live on Given Link:
